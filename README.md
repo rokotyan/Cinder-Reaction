@@ -6,3 +6,7 @@ Inspired by the Reaction product line of Nervous Systems : http://n-e-r-v-o-u-s.
 More info about the equations: http://mrob.com/pub/comp/xmorphia/
                                http://www.karlsims.com/rd.html
                                
+<img src="http://rokotyan.com/projects/experiments/reaction/Reaction_0.jpg">
+<img src="http://rokotyan.com/projects/experiments/reaction/Reaction_scr1.jpg">
+<img src="http://rokotyan.com/projects/experiments/reaction/Reaction_scr2.jpg">
+
